@@ -1,0 +1,28 @@
+<?php
+$main = array (
+  's_name' => 'MaelStorm',
+  's_about' => 'В процессе разработки',
+  's_keywords' => 'Minecraft, MaelStorm, сервер, MMORPG',
+  's_dpage' => 'news',
+  's_theme' => 'bootstrap_4',
+  'rewrite' => false,
+  'install' => false,
+  'p_logic' => 'usual',
+  'debug' => true,
+  's_lang' => 'ru_RU',
+  's_root' => '/',
+  's_root_full' => 'http://maelstorm.net/',
+  'mcr_secury' => '7iDT4CP!sdYRm4yICjF4',
+  'crypt' => 4,
+  'reg_accept' => true,
+  'captcha' => 1,
+  'rc_public' => '6LdDY2gUAAAAANSRh8M-H-ywQXrWXHLbIesULK2i',
+  'rc_private' => '6LdDY2gUAAAAADgBfju6ItbqT51Kp0Tt9_N5Emhj',
+  'kc_public' => '78758',
+  'kc_private' => 'nBJjeiTqRAuXZlqwklPHSgtlCj',
+  'skin_path' => 'uploads/skins/',
+  'cloak_path' => 'uploads/cloaks/',
+  'hd_cloaks' => false,
+  's_client' => '',
+);
+?>
